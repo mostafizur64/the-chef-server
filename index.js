@@ -16,5 +16,5 @@ app.get('/chef/:id',(req,res)=>{
    res.send(selectedChef);
 })
 app.listen(port,()=>{
-    console.log(`the chefs project port is ${port}`)
+    console.log(`the chefs project port is ${port}`);
 })
