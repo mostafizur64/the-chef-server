@@ -5,7 +5,7 @@ var cors = require('cors')
 const chefs = require('./data/chefs-list.json');
 app.use(cors())
 app.get('/',(req,res)=>{
-    res.send('Chefs project is running!');
+    res.send('Chefs project is running!')
 });
 app.get('/chef',(req,res)=>{
     res.send(chefs)
