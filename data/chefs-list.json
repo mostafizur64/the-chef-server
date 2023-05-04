@@ -1,0 +1,75 @@
+[
+    {
+        "id":"1",
+        "chef_picture": "https://img.freepik.com/premium-photo/male-cook-white-uniform-hat-putting-salt-herbs-food-plate-with-vegetables-before-serving-while-working-restaurant-kitchen_106485-4499.jpg?w=740",
+        "chef_name": "John Doe",
+        "years_of_experience": 12,
+        "num_recipes": 75,
+        "likes": 1500,
+        "short_bio":"London-based chef (John Doe) has been honing his skills in Spanish cuisine since his early days in Barcelona. With a passion for creating traditional flavours with a modern twist, he has established himself as an acclaimed chef in the city."
+    },
+    {   
+        "id":"2",
+        "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=740&t=st=1683123008~exp=1683123608~hmac=ffeac4f89b309b2ead1afacbaad6c49b960614960e69045986ff767093d18079",
+        "chef_name": "Jane Smith",
+        "years_of_experience": 8,
+        "num_recipes": 50,
+        "likes": 1200,
+        "short_bio":"Sous Chef (Chef name) is the man behind the flavor of San Francisco’s well-renowned (Restaurant name). His prior experience in Asian cuisine is evident in every bite he serves. Heavy on flavor and light on calories, his dishes are always fresh and delicious."
+    },
+    {
+        "id":"3",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9815.jpg?w=740&t=st=1683123057~exp=1683123657~hmac=c0cfba104fe422724c2f2ad11a2b40ba74748ec9b7e5242bd0a6feb3ced585d0",
+        "chef_name": "Peter Parker",
+        "years_of_experience": 5,
+        "num_recipes": 30,
+        "likes": 800,
+        "short_bio":"(Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine."
+    },
+    {
+        "id":"4",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?t=st=1683123109~exp=1683123709~hmac=72c92cfa7d7980a15af63ea31f97cce4584006f29b1f3e01fa29224c21550c89",
+        "chef_name": "Alice Johnson",
+        "years_of_experience": 20,
+        "num_recipes": 150,
+        "likes": 3000,
+        "short_bio":"(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town."
+    },
+    {
+        "id":"5",
+        "chef_picture": "https://img.freepik.com/premium-photo/portrait-smiling-male-chef-standing-kitchen_23-2147863765.jpg",
+        "chef_name": "Bob Lee",
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 2000,
+        "short_bio":"Chef (Chef name) is a well-renowned pastry chef in California. She first rose to prominence when her (dish name) was awarded Best of Show at the San Diego Food and Beverage Festival. Since then she has been mastering her craft and designing tasty treats for the people."
+    },
+    {
+        "id":"6",
+        "chef_picture": "https://img.freepik.com/premium-photo/smiling-female-chef-with-cut-vegetables-kitchen_13339-42852.jpg?w=740",
+        "chef_name": "Olivia Brown",
+        "years_of_experience": 10,
+        "num_recipes": 60,
+        "likes": 1400,
+        "short_bio":"Chef (Chef name) is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics."
+    },
+    {
+        "id":"7",
+        "chef_picture": "https://img.freepik.com/free-photo/smiley-chef-with-hat-holding-plate_23-2148244951.jpg?w=740&t=st=1683123466~exp=1683124066~hmac=16c167172fcd5be281594be5cdaf49d6b4c34d941209d00f35e71f4ea3294c49",
+        "chef_name": "David Kim",
+        "years_of_experience": 6,
+        "num_recipes": 40,
+        "likes": 1000,
+        "short_bio":"Exec Chef (Chef name) is the mastermind behind the menu of (Restaurant name) in North Carolina. With 13 years of experience as well as a degree from the Culinary Academy of New York, he is an established name in the culinary world."
+    },
+    {
+        "id":"8",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=740&t=st=1683123528~exp=1683124128~hmac=71290211e89f45530c36dc82f843233be3e8ab7a6357e53a7479b9abcbccdab9",
+        "chef_name": "Maggie Smith",
+        "years_of_experience": 18,
+        "num_recipes": 120,
+        "likes": 2500,
+        "short_bio":"(Maggie Smith) is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 18 years of cooking experience, she has been creating delicious meals for customers since 2006."
+    }
+    
+]
