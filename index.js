@@ -8,7 +8,7 @@ app.get('/',(req,res)=>{
     res.send('Chefs project is running!');
 });
 app.get('/chef',(req,res)=>{
-    res.send(chefs);
+    res.send(chefs)
 })
 app.get('/chef/:id',(req,res)=>{
    const id = req.params.id;
